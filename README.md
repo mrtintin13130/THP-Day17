@@ -2,12 +2,14 @@
 
 * *Relational database*
 
+```
 Comments
     ├── Pins
-    |    └────
-    |         ├── Users
+    │    └────
+    │         ├── Users
     └─────────
 
+```
 ---
 
 # The Goal #
