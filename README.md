@@ -2,6 +2,12 @@
 
 * *Relational database*
 
+Include 3 tables:
+
+* Comments
+* Pins
+* Users
+
 ```
 Comments
     ├── Pins
