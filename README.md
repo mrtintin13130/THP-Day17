@@ -3,13 +3,9 @@
 * *Relational database*
 
 Comments
-
     ├── Pins
-
     |    └────
-
     |         ├── Users
-
     └─────────
 
 ---
